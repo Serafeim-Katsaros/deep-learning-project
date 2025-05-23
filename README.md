@@ -1,6 +1,8 @@
 ΕΡΓΑΣΊΑ 4
 Όνομα: Σεραφείμ Κατσαρός
 ΑΕΜ: 4565 
+## Google Collab Link
+https://colab.research.google.com/drive/1ckmvpjlBu5wO6e-Stp28EwcnwflmyV3p?usp=sharing
 ## Στόχος της Εργασίας
 Σε αυτή την εργασία εκπαιδεύσαμε ένα Νευρωνικό Δίκτυο για την ταξινόμηση ψηφίων από το dataset MNIST, με στόχο τη βελτιστοποίηση της ακρίβειας μέσω πειραματισμών με παραμέτρους (hyperparameters) και τεχνικές βελτίωσης (όπως Batch Normalization). Η εργασία υλοποιήθηκε με χρήση Python και TensorFlow μέσω Google Colab.
 ##  Final model architecture
