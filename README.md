@@ -1,6 +1,7 @@
 ΕΡΓΑΣΊΑ 4
 Όνομα: Σεραφείμ Κατσαρός
 ΑΕΜ: 4565 
+google collab link:https://colab.research.google.com/drive/1ckmvpjlBu5wO6e-Stp28EwcnwflmyV3p?usp=sharing
 
 1.Hyper-parameter Tuning:
 Συνάρτηση ενεργοποίησης	Αριθμός Επιπέδων	Πλήθος νευρώνων ανά επίπεδο	Ρυθμός μάθησης	Εποχές	Ακρίβεια
