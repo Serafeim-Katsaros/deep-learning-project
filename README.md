@@ -1,8 +1,20 @@
 ΕΡΓΑΣΊΑ 4
 Όνομα: Σεραφείμ Κατσαρός
 ΑΕΜ: 4565 
-google collab link:https://colab.research.google.com/drive/1ckmvpjlBu5wO6e-Stp28EwcnwflmyV3p?usp=sharing
-
+## Στόχος της Εργασίας
+Σε αυτή την εργασία εκπαιδεύσαμε ένα Νευρωνικό Δίκτυο για την ταξινόμηση ψηφίων από το dataset MNIST, με στόχο τη βελτιστοποίηση της ακρίβειας μέσω πειραματισμών με παραμέτρους (hyperparameters) και τεχνικές βελτίωσης (όπως Batch Normalization). Η εργασία υλοποιήθηκε με χρήση Python και TensorFlow μέσω Google Colab.
+##  Final model architecture
+- Input Layer: 784 χαρακτηριστικά (28x28 εικόνα)
+- Hidden Layer 1: 256 neurons, ReLU + Batch Normalization
+- Hidden Layer 2: 256 neurons, ReLU + Batch Normalization
+- Output Layer: 10 classes, Softmax
+## The selected hyperparameters
+- Activation Function: ReLU
+- Number of Hidden Layers: 2
+- Units per Layer: 256
+- Learning Rate: 0.001
+- Epochs: 15
+  
 1.Hyper-parameter Tuning:
 Συνάρτηση ενεργοποίησης	Αριθμός Επιπέδων	Πλήθος νευρώνων ανά επίπεδο	Ρυθμός μάθησης	Εποχές	Ακρίβεια
 tanh	                        3	                256	                       0.001	 10	    93,18%
